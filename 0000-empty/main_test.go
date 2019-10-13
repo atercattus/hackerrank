@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func Test_solve(t *testing.T) {
+func Test_solve1(t *testing.T) {
 	hackerrank.Checker(solve, t, `
 `, `
 `)
