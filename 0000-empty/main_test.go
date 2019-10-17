@@ -5,8 +5,10 @@ import (
 	"testing"
 )
 
-func Test_solve1(t *testing.T) {
+func Test_solve0(t *testing.T) {
 	hackerrank.Checker(solve, t, `
+// input
 `, `
+// output
 `)
 }
